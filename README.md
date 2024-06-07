@@ -1,6 +1,4 @@
-#Multi User Chatting app using React and NodeJs
-
-**Multi-User Chat App**
+**Multi-User Chat App using ChatEngineIO**
 
 This project is a simple chat application built with React for the frontend and Node.js for the backend.
 
